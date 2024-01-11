@@ -10,10 +10,10 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,ruby,rust,python" />
 
 #### Client Side Tools
-<img src="https://skillicons.dev/icons?i=react,svelte,threejs,vite,blender" />
+<img src="https://skillicons.dev/icons?i=react,solid,svelte,threejs,vite,blender" />
 
 #### Server Side Tools
-<img src="https://skillicons.dev/icons?i=nodejs,docker,nginx,bash,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,docker,nginx,bash,mongodb" />
 
 ### Setup
 <img src="https://skillicons.dev/icons?i=linux,vscode" />
@@ -27,7 +27,3 @@
 
 ### [Wormo.io](https://wormo.io) - Multiplayer Shooting Game With Worms 
 <img src="https://img.gamemonetize.com/on57ewcv2740i24fbnohytevjs523pcr/512x384.jpg" width="80px">
-
-
-### [TonkWars.io](https://tonkwars.io) - Multiplayer Tank Game 
-<img src="https://img.gamemonetize.com/s0hre8v0prilayb5c3zmj5iwkytnb12v/512x384.jpg" width="80px">
