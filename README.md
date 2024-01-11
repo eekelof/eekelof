@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,ruby,rust,python" />
 
 #### Client Side Tools
-<img src="https://skillicons.dev/icons?i=react,solid,svelte,threejs,vite,blender" />
+<img src="https://skillicons.dev/icons?i=react,solidjs,svelte,threejs,vite,blender" />
 
 #### Server Side Tools
 <img src="https://skillicons.dev/icons?i=nodejs,bun,docker,nginx,bash,mongodb" />
