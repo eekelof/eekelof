@@ -3,7 +3,7 @@
 <img src="https://zomblox.io/assets/textures/z_og.jpg" width="192px">
 
 ## Skills
-#### Favourite Languages ☀️
+#### Favourite Languages 🌞
 <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 
 #### Other Languages ⛅
