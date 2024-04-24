@@ -1,6 +1,6 @@
 ## Latest Project ✨
 ### [Zomblox.io](https://zomblox.io) - Multiplayer Shooting Game
-<img src="https://zomblox.io/assets/textures/z_og.jpg" width="192px">
+<img src="https://zomblox.io/textures/z_og.jpg" width="192px">
 
 ## Skills
 #### Favourite Languages 🌞
