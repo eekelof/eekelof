@@ -6,17 +6,11 @@
 #### Favourite Languages 🌞
 <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 
-#### Other Languages ⛅
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,ruby,rust,python" />
-
 #### Client Side
 <img src="https://skillicons.dev/icons?i=react,solidjs,svelte,threejs,vite,blender" />
 
 #### Server Side
 <img src="https://skillicons.dev/icons?i=nodejs,bun,docker,nginx,bash,mongodb" />
-
-### Setup
-<img src="https://skillicons.dev/icons?i=linux,vscode" />
 
 ## Old Projects 🦖
 ### [SuperSpin.io](https://superspin.io) - Multiplayer Fidget Spinner Game
