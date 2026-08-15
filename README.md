@@ -1,5 +1,5 @@
 ## Latest Project ✨
-### [Zomblox.io](https://zomblox.io) - Multiplayer Shooting Game
+### Zomblox.io - Multiplayer Shooting Game
 <img src="https://zomblox.io/textures/z_og.jpg" width="192px">
 
 ## Old Projects 🦖
